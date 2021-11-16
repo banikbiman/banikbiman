@@ -1,7 +1,5 @@
-- 👋 Hi, I’m Axy
-- 👀 I’m interested in developing websites
-- 🌱 I’m currently learning HTML,CSS,Java
-- 📫 You can contact me on Discord: Axy#7269
+- On my way to become a cool dev :)
+- You can contact me on Discord: Axy#7269
 
 <!---
 banikbiman/banikbiman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
